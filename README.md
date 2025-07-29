@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manasa Natukula</h1>
 <h3 align="center">Senior Frontend Engineer | 8+ Years | Fintech | React | TypeScript</h3>
 
-🔗 Portfolio: https://manasa-natukula-portfolio.vercel.app
+<h4 align="center"> 🔗 Portfolio: https://manasa-natukula-portfolio.vercel.app</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manasa9595&label=Profile%20views&color=0e75b6&style=flat" alt="manasa-natukula" />
